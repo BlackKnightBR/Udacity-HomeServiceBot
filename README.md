@@ -13,6 +13,10 @@
 
 ![My large image](_images/pickObjects.png)
 
+## Add Markers
+
+![My large image](_images/addMarkers.png)
+
 ### References:
 > Ross Wiki:
 >> #### http://wiki.ros.org/catkin/CMakeLists.txt
