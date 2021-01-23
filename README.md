@@ -10,6 +10,7 @@
 > Ross Wiki:
 >> http://wiki.ros.org/catkin/CMakeLists.txt
 #### Udacity peers and git hub repos:
-> Reference list:
->> cosa2: https://github.com/csosa27/RoboND-HomeServiceBot
+> Udacity reference list:
 >> udacity: https://github.com/udacity/RoboND-simple_arm
+> Peerreference list:
+>> cosa2: https://github.com/csosa27/RoboND-HomeServiceBot
