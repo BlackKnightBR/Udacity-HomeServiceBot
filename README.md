@@ -9,6 +9,9 @@
 
 ![My large image](_images/Navigation.png)
 
+## Pick Objects
+
+![My large image](_images/pickObjects.png)
 
 ### References:
 > Ross Wiki:
