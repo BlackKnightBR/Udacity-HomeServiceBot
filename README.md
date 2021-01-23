@@ -1,6 +1,10 @@
 # Udacity-HomeServiceBot
 *Udacity's Robotics Software Engineer last project.*
 
+## Slam test:
+
+![My large image](_images/testSLam.png)
+
 ## Localization and Navigation:
 
 ![My large image](_images/Navigation.png)
