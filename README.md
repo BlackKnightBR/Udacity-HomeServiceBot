@@ -3,7 +3,7 @@
 
 ## Slam test:
 
-![My large image](_images/testSLam.png)
+![My large image](_images/testSlam.png)
 
 ## Localization and Navigation:
 
