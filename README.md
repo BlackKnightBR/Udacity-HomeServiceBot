@@ -10,9 +10,8 @@
 > Ross Wiki:
 >> #### http://wiki.ros.org/catkin/CMakeLists.txt
 >> #### http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Basic%20Shapes
-#### Udacity: 
-> Udacity reference list:
->> udacity(https://github.com/udacity/RoboND-simple_arm) 
-#### Peer: 
-> Peer reference list:
->> cosa2(https://github.com/csosa27/RoboND-HomeServiceBot)
+#### Udacity and peer repos: 
+> Reference list:
+>> #### udacity(https://github.com/udacity/RoboND-simple_arm) 
+>> #### cosa2(https://github.com/csosa27/RoboND-HomeServiceBot)
+>> #### dhavenm(https://github.com/dehavenm/Udacity-Home-Service-Robot/tree/master/catkin_ws/src)
