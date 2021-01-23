@@ -9,6 +9,6 @@ Udacity's Robotics Software Engineer last project.
 ### References:
 > Ross Wiki:
 >> http://wiki.ros.org/catkin/CMakeLists.txt
-> Udacity peers and git hub repos:
+#### Udacity peers and git hub repos:
 >> https://github.com/csosa27/RoboND-HomeServiceBot
 >> https://github.com/udacity/RoboND-simple_arm
