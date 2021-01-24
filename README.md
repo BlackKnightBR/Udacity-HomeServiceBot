@@ -10,6 +10,8 @@ The objective: this project is the exemplification of some the concepts learned 
   
   ##### Resources:
   > Clone this repo and paste all the content inside your own catkin_ws/src
+  >> https://github.com/BlackKnightBR/Udacity-HomeServiceBot.git
+  
   > ### Also clone these repos:
   >> ##### https://github.com/turtlebot/turtlebot.git
 
