@@ -39,7 +39,7 @@ The objective: this project is the exemplification of some the concepts learned 
 
 ###  The ROS navigation stack creates a path for your robot based on Dijkstra's algorithm, a variant of the Uniform Cost Search algorithm, while avoiding obstacles on its path.
 
-![My large image](_images/pickObjects.png)
+![My large image](_images/addMarkersS.png)
 
 ## Add Markers
 
