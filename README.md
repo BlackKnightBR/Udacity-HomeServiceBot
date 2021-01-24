@@ -31,24 +31,34 @@ The objective: this project is the exemplification of some the concepts learned 
 
 ## Slam test:
 
+### Autonomously map the environment you designed earlier with the Building Editor in Gazebo. But before you tackle autonomous mapping, it’s important to test if you are able to manually perform SLAM by teleoperating your robot. The goal of this step is to manually test SLAM.
+
 ![My large image](_images/testSlam.png)
 
 ## Localization and Navigation:
+
+### We will be using the ROS Navigation stack, which is based on the Dijkstra's, a variant of the Uniform Cost Search algorithm, to plan our robot trajectory from start to goal position. The ROS navigation stack permits your robot to avoid any obstacle on its path by re-planning a new trajectory once your robot encounters them. You are familiar with this navigation stack from the localization project where you interfaced with it and sent a specific goal for your robot to reach while localizing itself with AMCL
 
 ![My large image](_images/Navigation.png)
 
 ## Pick Objects
 
+###  The ROS navigation stack creates a path for your robot based on Dijkstra's algorithm, a variant of the Uniform Cost Search algorithm, while avoiding obstacles on its path.
+
 ![My large image](_images/pickObjects.png)
 
 ## Add Markers
 
+### The virtual object is the one being picked and delivered by the robot, thus it should first appear in its pickup zone, and then in its drop off zone once the robot reaches it.
+
 ![My large image](_images/addMarkers.png)
 
 ## Bomb disposal bot!
-
+> Initially show the marker at the pickup zone
 ![My large image](_images/homeService.png)
+> Hide the marker once your robot reaches the pickup zone
 ![My large image](_images/homeServiceGoing.png)
+> Show the marker at the drop off zone once your robot reaches it
 ![My large image](_images/homeServiceDone.png)
 
 
