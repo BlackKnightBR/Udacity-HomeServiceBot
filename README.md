@@ -9,7 +9,7 @@ The objective: this project is the exemplification of some the concepts learned 
   *First create you catkin_ws, src and init the catkin workspace*
   
   ##### Resources:
-  > Clone this repo and paste all the content inside your own catkin_ws/src
+  > Clone this repo and paste all the content from "src" inside your own catkin_ws/src
   >> https://github.com/BlackKnightBR/Udacity-HomeServiceBot.git
   
   > ### Also clone these repos:
