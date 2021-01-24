@@ -21,7 +21,7 @@ The objective: this project is the exemplification of some the concepts learned 
  >>> chmod +x home_service.sh
  >>>> *./home_service.sh*
  >>>>> Watch the little bot retriev a bomb and take it to a safe zone outside the house.
- *Important: don't forget to "add"->"markers" inside rviz*
+ >>>>>> *Important: don't forget to "add"->"markers" inside rviz*
 
 ## Slam test:
 
