@@ -33,7 +33,7 @@ The objective: this project is the exemplification of some the concepts learned 
 
 ### We will be using the ROS Navigation stack, which is based on the Dijkstra's, a variant of the Uniform Cost Search algorithm, to plan our robot trajectory from start to goal position. The ROS navigation stack permits your robot to avoid any obstacle on its path by re-planning a new trajectory once your robot encounters them. You are familiar with this navigation stack from the localization project where you interfaced with it and sent a specific goal for your robot to reach while localizing itself with AMCL
 
-![My large image](_images/Navigation.png)
+![My large image](_images/pickObjects.png)
 
 ## Pick Objects
 
