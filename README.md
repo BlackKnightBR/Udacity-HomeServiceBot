@@ -12,14 +12,8 @@ The objective: this project is the exemplification of some the concepts learned 
   > Clone this repo and paste all the content from "src" inside your own catkin_ws/src
   >> https://github.com/BlackKnightBR/Udacity-HomeServiceBot.git
   
-  > ### Also clone these repos:
-  >> ##### https://github.com/turtlebot/turtlebot.git
-
- >> ##### https://github.com/turtlebot/turtlebot_interactions.git 
-
- >> ##### https://github.com/turtlebot/turtlebot_simulator.git
- 
- *important: remove the turtlebot_gazebo from "turtlebot_simulator pkg"
+  > ### Also clone inside src:
+  >>  https://github.com/turtlebot/turtlebot_interactions.git 
  
 ##### Execution:
  > Do "catkin_make" at catkin_ws and source devel/setup.bash
