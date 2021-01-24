@@ -19,9 +19,9 @@
 
 ## Bomb disposal bot!
 
-![My small image](_images/addMarkers.png)
-![My large image](_images/addMarkers.png)
-![My large image](_images/addMarkers.png)
+![My large image](_images/homeService.png)
+![My large image](_images/homeServiceGoing.png)
+![My large image](_images/homeServiceDone.png)
 
 
 ### References:
