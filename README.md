@@ -3,7 +3,7 @@
 
 ### Bomb disposal home bot:
 
-The objective, this project is the exemplification of some the concepts learned throughout the course "Robotics Software Engineer", these concepts involve, localization, mapping and navigation.
+The objective: this project is the exemplification of some the concepts learned throughout the course "Robotics Software Engineer", these concepts involve, localization, mapping and navigation.
 
 ##### How to:
   *First create you catkin_ws, src and init the catkin workspace*
