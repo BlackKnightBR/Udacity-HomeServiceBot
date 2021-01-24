@@ -49,7 +49,7 @@ int main(int argc, char** argv){
     goal.target_pose.pose.orientation = tf::createQuaternionMsgFromYaw(safeZone[1]);
 
     // Send the goal position and orientation for the robot to reach
-    ROS_INFO("Moving towards safezone");
+    ROS_INFO("Moving towards safe zone");
     ac.sendGoal(goal);
 
     // Wait an infinite time for the results
