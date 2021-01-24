@@ -1,6 +1,27 @@
 # Udacity-HomeServiceBot
 *Udacity's Robotics Software Engineer last project.*
 
+### Bomb disposal home bot:
+
+The objective, this project is the exemplification of some the concepts learned throughout the course "Robotics Software Engineer", these concepts involve, localization, mapping and navigation.
+
+##### How to:
+  *First create you catkin_ws, src and init the catkin workspace*
+  
+  ##### Resources:
+  > Clone this repo and paste all the content inside your own catkin_ws/src
+  > ### Also clone these repos:
+  >> ##### https://github.com/turtlebot/turtlebot.git
+
+ >> ##### https://github.com/turtlebot/turtlebot_interactions.git 
+
+ >> ##### https://github.com/turtlebot/turtlebot_simulator.git
+ 
+ *important: remove the turtlebot_gazebo from "turtlebot_simulator pkg"
+ 
+##### Execution:
+ 
+
 ## Slam test:
 
 ![My large image](_images/testSlam.png)
