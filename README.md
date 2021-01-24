@@ -24,8 +24,8 @@ The objective: this project is the exemplification of some the concepts learned 
  >> and source devel/setup.bash
  >Navigate to the scripts folder inside src, give exe permission to home_service.sh
  >> chmod +x home_service.sh
- >> *./home_service.sh*
- >>> Watch the little bot retriev a bomb and take it toa safe zone outside the house.
+ >>> *./home_service.sh*
+ >>>> Watch the little bot retriev a bomb and take it to a safe zone outside the house.
 
 ## Slam test:
 
